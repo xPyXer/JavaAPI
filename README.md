@@ -1,2 +1,2 @@
 # JavaAPI
-API REST com banco de dados utilizando Java e Spring Boot!
+CRUD API REST com banco de dados utilizando Java e Spring Boot!
